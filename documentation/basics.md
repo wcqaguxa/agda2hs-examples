@@ -1,6 +1,6 @@
 # How to build a small library in agda2hs
 
-After [installing Agda and agda2hs](Add link later), it's time to write a small library. See the folder example-basics for the files described in this document. 
+After [installing agda2hs](https://agda.github.io/agda2hs/introduction.html), it's time to write a small library. See the folder example-basics for the files described in this document. 
 
 The minimum required to write a library in Agda2Hs is a top-level folder with at least one `.agda` file and an `.agda-lib` file. In the case of example-basics, it looks like this: 
 
